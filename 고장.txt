@@ -1,0 +1,25 @@
+문제 서명:
+  문제 이벤트 이름:	BlueScreen
+  OS 버전:	6.1.7601.2.1.0.256.48
+  로캘 ID:	1042
+
+문제에 대한 추가 정보:
+  BCCode:	109
+  BCP1:	A3A039D8A5E47520
+  BCP2:	B3B7465EF8614736
+  BCP3:	FFFFF800027E8D80
+  BCP4:	0000000000000001
+  OS Version:	6_1_7601
+  Service Pack:	1_0
+  Product:	256_1
+
+문제 설명에 도움이 되는 파일:
+  C:\Windows\Minidump\010818-10108-01.dmp
+  C:\Users\LST.user-PC\AppData\Local\Temp\WER-23150-0.sysdata.xml
+
+온라인 개인 정보 취급 방침 읽기:
+  http://go.microsoft.com/fwlink/?linkid=104288&clcid=0x0412
+
+온라인 개인 정보 취급 방침을 사용할 수 없으면 오프라인으로 개인 정보 취급 방침을 
+읽으십시오.
+  C:\windows\system32\ko-KR\erofflps.txt

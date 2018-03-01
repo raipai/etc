@@ -1,0 +1,26 @@
+2017-1-2  General Physics Final Exam
+
+***  I pledge to do my best only with my ability and consciousness  ***
+
+Dept.                        Name                       A.num
+
+
+1) 1.5 ton of medium size car hit back of small car of 800Kg at rest and and 
+slipped after getting stuck together. If the velocity of medium size car was 50 
+km/s before collision, then what is their slipping velocity?
+
+
+2A) prove the formula g = GM/R^2
+2B) Using the known radius of the Earth and that g=9.80 m/s^2 at the Earth’s 
+surface, find the average density of the Earth.
+
+
+3) Derive basic formula for Rocket velocity and explain it
+
+4) U(x,t) = 50 sin(300 x – 60 t) is a one dimensional wave equation
+Find the amplitude, wave length, frequency wave number, and angular frequency as 
+well as wave velocity of this wave.  remember all numbers are in mks unit. 
+
+5) Explain the two fundamental law of thermodynamics including internal energy 
+and entropy
+	
